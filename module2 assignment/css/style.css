@@ -1,0 +1,16 @@
+<style>
+* {
+	box-sizing: border-box;
+}
+div {
+	background-color: gray;
+	margin: 7px;
+	padding: 5px;
+	border: 1px solid black;
+	float: left;
+	width: 100px
+}
+.col-lg-4 {
+	width: 33.33%
+}
+</style>
